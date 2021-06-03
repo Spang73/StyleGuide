@@ -1,0 +1,55 @@
+main {
+    margin: 0 150px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: "Nunito Sans";
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "Poppins";
+}
+
+p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Poppins";
+}
+
+#colors div {
+    display: inline-block;
+    width: 30%;
+    padding: 15px 15px 25px 15px;
+}
+
+#blue {
+    background: #2d5dcc
+}
+
+#pink {
+    background: #d957d9;
+}
+
+#green {
+    background: #4fe0b0;
+}
+
+#beige {
+    background: #efd9ca;
+}
+
+#scpro {
+    font-family: "Source Code Pro";
+}
+
+#nunitosans {
+    font-family: "Nunito Sans";
+}
+
+#poppins {
+    font-family: "Poppins";
+}
