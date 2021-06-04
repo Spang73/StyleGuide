@@ -20,9 +20,17 @@ p {
     font-family: "Poppins";
 }
 
+ul {
+    font-family: "nunito sans";
+    font-size: 14px;
+}
+
+#fonts > div {
+    padding:25px;
+}
 #colors div {
     display: inline-block;
-    width: 30%;
+    width: 27%;
     padding: 15px 15px 25px 15px;
 }
 
@@ -52,4 +60,14 @@ p {
 
 #poppins {
     font-family: "Poppins";
+}
+
+main>div {
+    border: solid 0.01px gray;
+    padding: 10px;
+}
+
+#colors>div {
+    margin-bottom: 40px;
+    margin-right: 1px;
 }
